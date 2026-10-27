@@ -7,3 +7,6 @@ const foo = function() {};
 // react/no-unknown-property, Unknown property 'b' found
 // jsx-a11y/anchor-has-content, Anchors must have content and the content must be accessible by a screen reader
 <a b='c' />
+
+const a = 3;
+a = 234;
